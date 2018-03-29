@@ -1,0 +1,1 @@
+Microblogging web app according to tutorial at https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
