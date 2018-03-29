@@ -1,3 +1,4 @@
 flask>=0.12
 flask-wtf>=0.14
 jinja2>=2.10
+wtforms>=2.1
